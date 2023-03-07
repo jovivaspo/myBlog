@@ -3,13 +3,13 @@ title: 'Guía básica de Git'
 excerpt: 'Git es un sistema de control de versiones que te permite manejar y rastrear los cambios en tus proyectos de software. Ya sea que estés trabajando solo o en equipo, Git te ayuda a mantener un registro de las modificaciones que has hecho en tus archivos, lo que facilita la colaboración y la resolución de conflictos.
 
 A continuación, te ofrecemos una guía básica de Git para que puedas empezar a trabajar con él de forma eficiente y eficaz. Aprenderás cómo configurar Git, crear un repositorio, realizar cambios, guardar y actualizar tus cambios, y trabajar con repositorios remotos. ¡Vamos a empezar!'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/git-basic/git-basic.webp'
 date: '2023-03-17T05:35:07.322Z'
 author:
   name: Jorge Vivas
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/git-basic/git-basic.webp'
 ---
 # **Git**
 
@@ -117,7 +117,7 @@ Hay 7 reglas básicas:
 6. Envolver el cuerpo en 72 caracteres.
 7. Utilizar el cuerpo para explicar qué y por qué en lugar de cómo.
 
-![Cómo hacer un commit correctamente](https://cbea.ms/content/images/size/w2000/2021/01/git_commit_2x.png)
+![Cómo hacer un commit correctamente](https://res.cloudinary.com/dme5pqzrj/image/upload/f_auto/v1678192260/git_commit_2x_aoj7oa.png)
 
 [Source](https://chris.beams.io/posts/git-commit/)
 
